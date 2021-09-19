@@ -25,4 +25,16 @@ All of the above software can be installed via ```conda```
 ```
 snakemake -s the/path/to/mapping.smk
 ```
-
+# SV calling
+### pbsv calling
+```
+sh the/path/to/pbsv.sh
+```
+### sniffles calling
+```
+sh the/path/to/sniffles.sh
+```
+### cuteSV calling
+```
+sh the/path/to/cuteSV.sh
+```
