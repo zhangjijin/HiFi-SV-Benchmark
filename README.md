@@ -1,4 +1,4 @@
-# benchmarkPipeline-for-SV-detection
+# HiFi SV Benchmark
 A benchmark pipeline for PacBio HiFi whole genome sequencing structural variant analysis.
 # Dependencies
 ## Reads aligner
