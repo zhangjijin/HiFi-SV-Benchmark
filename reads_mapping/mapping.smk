@@ -2,7 +2,7 @@
 Samples = [160，64，219] #160,219,64 are prefixes to the names of the three samples in this test
 rule all:
 	input:
-		expand("{sample}/ref.mmi",sample=Samples),
+	expand("{sample}/ref.mmi",sample=Samples),
         expand("{sample}/pbmm2.bam",sample=Samples),
         expand("{sample}/pbmm.log",sample=Samples),
         expand("{sample}/pbmm.time",sample=Samples),
