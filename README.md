@@ -8,7 +8,7 @@ A benchmark pipeline for PacBio HiFi whole genome sequencing structural variant 
 ## SV caller
 [svim](https://github.com/eldariont/svim)  
 [cuteSV](https://github.com/tjiangHIT/cuteSV)  
-[Sniffles](https://github.com/fritzsedlazeck/Sniffles)
+[Sniffles](https://github.com/fritzsedlazeck/Sniffles)  
 [pbsv](https://github.com/PacificBiosciences/pbsv)
 ## Other tools
 [SURVIVOR](https://github.com/fritzsedlazeck/SURVIVOR)  
