@@ -20,9 +20,9 @@ A benchmark pipeline for PacBio HiFi whole genome sequencing structural variant 
 * [bedtools](https://github.com/arq5x/bedtools2)
 * [bam2fastx](https://github.com/PacificBiosciences/bam2fastx)
 
-All of the above software can be installed via '''conda'''
+All of the above software can be installed via ```conda```
 # Pacbio HiFi mapping to reference genome
-'''
+```
 snakemake -s the/path/to/mapping.smk
-'''
+```
 
